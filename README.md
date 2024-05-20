@@ -9,7 +9,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DataForScience/Timeseries/master)
 
-# Timeseries for Everyone
+# Timeseries for Everyone :]
 
 ### Code and slides to accompany the online series of webinars: https://data4sci.com/timeseries by Data For Science.
 
